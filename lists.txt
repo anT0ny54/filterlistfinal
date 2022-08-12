@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/anT0ny54/filter/main/blocklist.txt
-https://raw.githubusercontent.com/anT0ny54/filterlist/main/0.txt
+https://raw.githubusercontent.com/anT0ny54/filterlist/main/blocklist.txt
