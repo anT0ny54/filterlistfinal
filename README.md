@@ -1,1 +1,1 @@
-# blocklistwithregex
+# blocklist
