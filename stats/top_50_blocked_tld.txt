@@ -28,29 +28,11 @@
    6577 online
    6409 be
    6305 au
-   6187 pro
    6151 ca
    5879 cc
    5859 tv
    5536 io
    5534 es
-   4749 cz
-   4578 pw
-   4518 ws
-   4427 xxx
-   4389 dk
-   4343 at
-   4066 ml
-   4029 se
-   4014 ga
-   3962 cf
-   3774 win
-   3636 hu
-   3629 ro
-   3621 mobi
-   3428 st
-   3159 gq
-   1009 host
     969 my
     917 date
     866 to
@@ -91,7 +73,6 @@
     426 dev
     425 party
     424 lu
-    410 news
     409 sexy
     406 is
     393 ovh
@@ -99,19 +80,16 @@
     383 art
     378 mk
     369 tl
-    368 best
     345 ph
     341 services
     339 kz
     334 al
     330 love
-    322 cat
     312 gs
     303 tube
     300 ba
     298 bz
     296 casa
-    295 chat
     293 red
     286 sa
     284 pics
@@ -128,7 +106,6 @@
     228 ve
     228 ge
     226 guru
-    219 rest
     219 ma
     217 mu
     212 center
@@ -225,7 +202,6 @@
      65 photo
      63 so
      63 racing
-     63 quest
      63 ms
      62 berlin
      61 land
@@ -233,7 +209,6 @@
      59 faith
      58 sr
      57 works
-     57 reviews
      57 accountant
      56 ps
      55 guide
@@ -278,7 +253,6 @@
      36 pet
      35 rw
      35 marketing
-     35 house
      35 gift
      35 dz
      34 promo
@@ -363,7 +337,6 @@
      19 travel
      19 scot
      19 partners
-     19 ist
      19 ht
      19 frl
      19 film
@@ -373,9 +346,7 @@
      18 ren
      18 melbourne
      18 cards
-     18 aero
      17 rent
-     17 lat
      17 gmbh
      16 town
      16 ky
@@ -388,7 +359,6 @@
      15 legal
      15 kh
      15 hm
-     14 yoga
      14 sd
      14 nrw
      14 homes
@@ -445,7 +415,6 @@
      10 law
      10 kw
      10 kitchen
-     10 horse
      10 fj
      10 estate
      10 enterprises
@@ -474,7 +443,6 @@
       8 tattoo
       8 sy
       8 soy
-      8 sncf
       8 sb
       8 parts
       8 ne
@@ -599,7 +567,6 @@
       3 goog
       3 gives
       3 forex
-      3 florist
       3 equipment
       3 doctor
       3 cruises
@@ -658,7 +625,6 @@
       1 vru
       1 virgin
       1 vim
-      1 vast
       1 tires
       1 theater
       1 td
@@ -704,7 +670,6 @@
       1 js
       1 jcb
       1 iselect
-      1 html
       1 hiv
       1 guitars
       1 gn
@@ -723,7 +688,6 @@
       1 clubparent
       1 cloudfront
       1 christmas
-      1 chase
       1 charity
       1 cern
       1 cars
