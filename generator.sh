@@ -53,7 +53,7 @@ echo -e "Entries of the whitelist are kept ..."
 comm -23 <(sort "$TMP_LIST") <(sort "$CUSTOM_WHITELIST")  >"$TMP_LIST2" && mv -f "$TMP_LIST2" "$TMP_LIST"
 
 echo -e "Stats: Top 50 blocked domains ..."
-cat "$TMP_LIST" | sed 's/.*\.//' | sort | uniq -c | sort -nr | head -5000 >"$GROUPED_BY_DOMAIN"
+cat "$TMP_LIST" | sed 's/.*\.//' | sort | uniq -c | sort -nr | head -50 >"$GROUPED_BY_DOMAIN"
 
 echo -e "Stats: Changelog ..."
 echo "$(date +"%Y-%m-%d %H:%M:%S")    $(wc -l <"$TMP_LIST") Domains" >>"$CHANGELOG"
