@@ -1,359 +1,356 @@
- 797625 com
- 125943 net
-  59829 info
-  55189 ru
-  49661 org
-  45342 de
-  44325 tk
-  31671 stream
-  31667 xyz
-  25596 nl
-  24994 cn
-  23688 fr
-  20710 uk
-  14849 br
-  13001 eu
-  12609 es
-  12513 pl
-  12018 in
-  11894 top
-  10970 biz
-  10409 site
-  10077 us
-   9233 it
-   8793 jp
-   7720 su
-   7613 club
-   7601 au
-   7517 me
-   7226 ch
-   6586 online
-   6442 be
-   6249 cc
-   6232 ca
-   6192 pro
-   5927 tv
-   5721 io
-   4768 cz
-   4635 pw
-   4554 at
-   4527 ws
-   4428 xxx
-   4401 dk
-   4282 id
-   4162 tr
-   4080 ml
-   4042 se
-   4026 ga
-   3969 cf
-   3776 win
-   3665 ro
-   3657 hu
-   3629 mobi
-   3453 st
-   3162 gq
-   3000 tw
-   2760 live
-   2739 cl
-   2725 gdn
-   2695 mx
-   2670 icu
+ 785489 com
+ 114634 net
+  59563 info
+  54167 ru
+  49090 org
+  44612 de
+  44309 tk
+  31623 stream
+  31604 xyz
+  25468 nl
+  24380 cn
+  21506 fr
+  16199 uk
+  12945 eu
+  11940 pl
+  11925 in
+  11864 top
+  10955 biz
+  10768 br
+  10401 site
+  10036 us
+   9004 it
+   8022 jp
+   7706 su
+   7605 club
+   7478 me
+   7202 ch
+   6577 online
+   6409 be
+   6305 au
+   6187 pro
+   6151 ca
+   5879 cc
+   5859 tv
+   5536 io
+   5534 es
+   4749 cz
+   4578 pw
+   4518 ws
+   4427 xxx
+   4389 dk
+   4343 at
+   4066 ml
+   4029 se
+   4014 ga
+   3962 cf
+   3774 win
+   3636 hu
+   3629 ro
+   3621 mobi
+   3428 st
+   3159 gq
+   2748 live
+   2727 cl
+   2657 icu
+   2637 gdn
    2577 porn
-   2544 sg
-   2530 ng
-   2470 ua
-   2405 ir
-   2325 bid
-   2320 ae
-   2172 gr
-   2051 sk
-   2049 space
-   2043 ar
+   2561 mx
+   2491 sg
+   2384 ir
+   2317 ae
+   2275 ua
+   2274 bid
+   2135 gr
+   2039 sk
    2037 vip
-   2008 kr
-   1984 app
-   1910 vn
-   1855 nu
-   1757 fun
-   1753 il
-   1687 no
-   1564 website
-   1308 pt
+   2027 space
+   1968 app
+   1849 nu
+   1808 vn
+   1805 kr
+   1774 ar
+   1756 fun
+   1676 no
+   1558 website
+   1467 il
+   1242 pt
+   1214 tw
    1191 cam
-   1175 asia
-   1131 name
-   1099 shop
+   1174 asia
+   1142 tr
+   1129 name
+   1124 id
+   1093 shop
    1083 support
-   1072 fi
-   1061 life
-   1037 link
-   1034 my
-   1024 store
-   1013 host
+   1059 life
+   1047 fi
+   1034 link
+   1023 store
+   1009 host
+    969 my
     917 date
-    899 nz
-    877 to
-    844 pk
-    819 lt
-    798 hk
-    770 ie
-    766 one
-    755 tech
-    752 buzz
+    866 to
+    823 pk
+    810 lt
+    767 ie
+    763 one
+    753 tech
+    751 buzz
     741 work
+    739 hk
     712 monster
-    709 rs
-    699 men
-    688 ke
-    645 si
-    645 by
-    631 hr
-    621 review
-    616 cloud
-    603 bg
+    698 men
+    660 rs
+    644 si
+    617 hr
+    608 cloud
+    602 bg
     596 click
-    575 ee
-    562 tokyo
+    578 nz
+    564 review
+    561 tokyo
     559 video
-    554 pe
+    553 by
     539 sex
     537 blog
+    523 ng
     516 rocks
-    509 world
+    508 world
     506 cyou
-    498 download
-    497 lv
-    475 today
-    471 am
-    466 dev
-    436 ug
-    433 uy
+    499 pe
+    495 lv
+    473 today
+    470 am
+    448 ke
+    441 download
+    433 ug
+    426 dev
     425 party
     424 lu
-    411 news
+    410 news
     409 sexy
-    407 is
+    406 is
     393 ovh
-    392 la
-    383 mk
+    383 ee
     383 art
+    378 mk
     369 tl
-    369 best
-    367 th
-    365 ph
+    368 best
     360 bar
-    354 kz
-    343 services
+    345 ph
+    341 services
+    339 kz
     334 al
     330 webcam
     330 love
     322 cat
-    313 gs
+    312 gs
     303 tube
-    302 network
-    302 ba
-    300 bz
-    298 sa
+    300 ba
+    298 bz
     296 casa
     295 chat
     293 red
+    286 sa
     286 email
     284 pics
+    279 la
     265 wtf
-    265 ve
-    256 cy
-    248 ltd
+    259 network
+    254 th
     247 md
-    247 eg
-    245 mn
-    241 bd
-    240 trade
-    237 qa
-    236 ma
-    234 li
-    233 mt
+    246 ltd
+    240 mn
+    235 qa
+    233 li
     232 sn
-    230 ge
+    228 ve
+    228 ge
     226 guru
     219 rest
-    218 mu
-    215 science
-    215 center
-    208 ai
-    202 lk
-    202 im
+    219 ma
+    217 mu
+    212 center
+    209 uy
+    203 ai
+    200 im
+    199 trade
+    199 bd
+    197 lk
     197 gay
     194 ink
     190 media
     184 studio
-    184 ec
-    184 agency
     183 cd
-    174 zone
-    174 digital
+    182 agency
+    175 science
     174 adult
+    173 zone
+    171 ec
+    171 digital
     169 solutions
-    163 cx
     161 pink
+    161 cx
     159 ninja
     159 games
-    158 zw
+    152 zw
     152 az
     148 kim
     147 uno
-    146 vc
     144 lol
     141 loan
-    141 gov
-    141 fm
-    140 plus
+    140 fm
     140 dating
-    140 cool
-    138 tz
-    136 vu
-    130 np
-    129 company
-    127 group
-    124 tn
+    139 cool
+    138 plus
+    135 gov
+    131 vu
+    131 tz
+    128 company
+    126 group
+    120 tn
     119 wiki
     119 moe
     117 watch
-    117 business
-    115 py
-    115 global
+    116 business
+    115 np
     114 photography
-    111 sh
-    110 gg
+    114 global
+    110 sh
+    109 py
     106 tel
+    104 gg
     103 design
-    102 tc
     102 blue
+    101 tc
     101 photos
     101 market
      99 sbs
      99 ag
      98 show
      97 press
-     96 systems
-     95 re
-     94 run
+     95 systems
+     94 re
      92 nyc
      92 city
-     91 ly
+     91 vc
+     91 run
+     90 ly
      88 uz
      85 directory
      84 wang
      84 team
      83 tips
      83 gratis
-     83 do
-     82 sr
      82 fans
-     81 tf
+     80 tf
      80 ooo
-     79 cm
-     77 nf
+     78 do
+     78 cm
      77 cash
      75 fyi
      75 expert
      73 social
+     73 nf
      72 sale
      71 gallery
      71 desi
-     70 pub
+     69 pub
      69 pictures
-     69 page
      69 help
+     68 page
      68 bet
      66 cricket
      65 vg
      65 photo
-     64 so
-     64 cr
+     63 so
      63 racing
      63 quest
      63 ms
      62 berlin
      61 land
      60 fit
-     60 faith
+     59 faith
+     58 sr
      57 works
      57 reviews
-     57 ps
-     57 bo
      57 accountant
+     56 ps
      55 guide
      55 community
      54 toys
-     54 tools
-     54 gd
-     54 finance
      54 cfd
+     54 bo
+     53 tools
      53 london
-     52 international
+     53 finance
+     53 cr
+     52 gd
+     51 international
      51 dog
      49 software
-     49 pm
      49 hamburg
-     49 gt
+     48 pm
      47 cafe
      47 beauty
-     46 kg
      46 events
      46 deals
-     45 tt
      45 exchange
      44 technology
      44 singles
      44 money
      44 mom
-     44 care
+     44 kg
      44 black
      44 academy
      43 exposed
-     43 education
+     43 care
      42 lgbt
+     41 education
+     40 tt
      40 sx
      40 realestate
+     40 gt
      39 surf
-     38 hosting
      38 express
+     38 cy
      36 sc
-     36 rw
      36 pet
+     35 rw
      35 marketing
      35 house
      35 gift
      35 dz
      34 promo
-     34 pa
      34 onl
-     33 sv
      32 vin
      32 moscow
+     32 eg
      32 direct
      31 rip
      31 mz
      31 gold
      31 fund
      31 fan
-     31 ci
      31 af
-     30 wf
+     30 sv
      30 lc
+     30 ci
      30 amsterdam
-     29 yt
      29 report
      29 movie
      29 game
      29 family
      29 coop
      28 wien
+     28 wf
      28 school
      28 mg
      28 limited
      28 delivery
      28 as
+     27 yt
      27 vegas
      27 nagoya
      27 dance
@@ -370,43 +367,44 @@
      24 tj
      24 sydney
      24 rodeo
-     24 place
      24 gp
-     24 gl
      24 capital
      24 boutique
      24 beer
      23 training
      23 productions
+     23 place
      23 paris
+     23 mt
      23 ls
+     23 gl
      23 earth
      23 domains
      23 cheap
      22 tkparent
+     22 pa
      22 management
-     22 jo
      22 jetzt
      22 irish
-     22 hn
      22 eus
      22 coffee
      21 taxi
      21 shopping
-     21 nr
      21 consulting
      21 clinic
-     21 casino
      21 camera
      21 africa
+     20 nr
+     20 jo
      20 je
+     20 hn
      20 dj
      20 cv
      20 church
+     20 casino
      19 travel
      19 scot
      19 partners
-     19 kh
      19 ist
      19 ht
      19 frl
@@ -419,63 +417,61 @@
      18 cards
      18 aero
      17 rent
-     17 lb
      17 lat
      17 gmbh
-     17 fo
      16 town
      16 ky
      16 koeln
-     16 gh
+     16 fo
      16 credit
      16 actor
-     15 zm
      15 ventures
-     15 sd
-     15 om
      15 na
      15 legal
+     15 kh
      15 hm
-     15 bw
      14 yoga
+     14 sd
      14 nrw
-     14 ni
      14 homes
      14 gy
      14 graphics
      14 fail
      14 day
-     14 ao
      13 wales
      13 vision
      13 repair
-     13 kw
      13 immo
      13 hair
      13 gifts
+     13 gh
      13 computer
      13 bio
+     12 zm
      12 tm
      12 tax
      12 skin
      12 rentals
      12 realty
+     12 om
      12 mw
      12 miami
+     12 lb
      12 kiwi
      12 health
      12 futbol
-     12 fj
      12 energy
      12 discount
      12 cymru
      12 contact
      12 clothing
+     12 bw
      12 audio
      12 ad
      11 vet
      11 tours
      11 pf
+     11 ni
      11 navy
      11 mv
      11 moda
@@ -485,14 +481,17 @@
      11 bzh
      11 bi
      11 auction
+     11 ao
      10 yokohama
      10 vlaanderen
      10 tirol
      10 supply
      10 okinawa
      10 law
+     10 kw
      10 kitchen
      10 horse
+     10 fj
      10 estate
      10 enterprises
      10 contractors
@@ -504,7 +503,6 @@
       9 srl
       9 properties
       9 onion
-      9 ne
       9 mba
       9 institute
       9 inc
@@ -523,8 +521,8 @@
       8 soy
       8 sncf
       8 sb
-      8 pr
       8 parts
+      8 ne
       8 menu
       8 llc
       8 holiday
@@ -534,60 +532,62 @@
       8 engineer
       8 cologne
       8 college
-      8 careers
       8 build
       8 brussels
       8 bm
-      8 bh
       7 vi
       7 solar
-      7 sl
       7 schule
+      7 pr
       7 nc
-      7 mo
-      7 mm
-      7 leclerc
       7 istanbul
       7 gal
       7 football
-      7 et
       7 engineering
-      7 cu
       7 claims
       7 bt
       6 versicherung
       6 university
       6 soccer
       6 sm
+      6 sl
       6 ski
       6 shiksha
       6 salon
       6 quebec
       6 ngo
       6 mr
+      6 mo
       6 limo
       6 lighting
+      6 leclerc
       6 kaufen
       6 joburg
-      6 iq
       6 investments
       6 green
       6 garden
+      6 cu
+      6 careers
       6 capetown
       6 bj
+      6 bh
       6 bargains
       5 shoes
       5 poker
       5 pn
       5 ong
+      5 mm
       5 luxe
       5 jobs
+      5 iq
       5 insure
+      5 hosting
       5 gop
       5 google
       5 glass
       5 gent
       5 forsale
+      5 et
       5 diamonds
       5 construction
       5 alsace
@@ -603,7 +603,6 @@
       4 reisen
       4 radio
       4 observer
-      4 mc
       4 luxury
       4 lawyer
       4 kred
@@ -623,7 +622,6 @@
       4 catering
       4 builders
       4 bot
-      4 bnpparibas
       4 bf
       4 associates
       4 archi
@@ -640,11 +638,10 @@
       3 mq
       3 mortgage
       3 memorial
+      3 mc
       3 markets
       3 lr
       3 loans
-      3 jm
-      3 invalid
       3 industries
       3 goog
       3 gives
@@ -655,7 +652,6 @@
       3 cruises
       3 creditcard
       3 country
-      3 comm
       3 ck
       3 broker
       3 bn
@@ -677,12 +673,13 @@
       2 qpon
       2 plumbing
       2 pg
-      2 ntt
       2 madrid
       2 local
       2 krd
       2 kn
+      2 jm
       2 jewelry
+      2 invalid
       2 holdings
       2 hockey
       2 healthcare
@@ -697,6 +694,7 @@
       2 creditunion
       2 condos
       2 comparent
+      2 comm
       2 boston
       2 boats
       2 blackfriday
@@ -712,12 +710,7 @@
       1 virgin
       1 vim
       1 vast
-      1 usrformrefundre
-      1 ultimate
-      1 ulti
       1 tires
-      1 theplazaartscent
-      1 theplazaarts
       1 theater
       1 td
       1 surgery
@@ -730,19 +723,14 @@
       1 sky
       1 sf
       1 sexdating
-      1 seriouslycheapflights
       1 schwarz
       1 sandvik
-      1 salcaliforni
       1 rg
       1 pru
       1 pros
       1 property
-      1 pingspentit
       1 pictet
       1 physio
-      1 phoenixacade
-      1 phelanin
       1 osaka
       1 orgdojin
       1 or
@@ -764,26 +752,20 @@
       1 kyoto
       1 kpmg
       1 koko
-      1 kiisky
       1 juegos
       1 js
       1 jcb
       1 iselect
       1 html
-      1 hoo
       1 hiv
       1 guitars
       1 gn
       1 gif
       1 fl
-      1 errorfou
       1 ent
-      1 enable
       1 edeka
       1 dental
       1 degree
-      1 dataverificatio
-      1 dataverific
       1 coupons
       1 cooking
       1 comj
@@ -797,18 +779,12 @@
       1 chase
       1 charity
       1 cern
-      1 cas
       1 cars
       1 car
-      1 canon
-      1 bureni
+      1 bnpparibas
       1 bible
-      1 bconservice
-      1 bconser
       1 bb
       1 bauhaus
-      1 basketball
-      1 baove
       1 aw
       1 attorney
       1 aq
