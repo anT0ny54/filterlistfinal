@@ -13,7 +13,11 @@
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
 /^track(ing)?[0-9]*[_.-]/
-/\.(?:nl|se|no|es|milru|fr|es|uk|ca|de|jp|au|us|ch|it|io|org|com|net|int|edu|mil|arpa)/
+/(^|.)milru$/
+/(^|.)int$/
+/(^|.)edu$/
+/(^|.)mil$/
+/(^|.)arpa$/
 /(^|.)ac$/
 /(^|.)edu$/
 /(^|.)co$/
