@@ -1,44 +1,42 @@
- 824722 com
- 117921 net
+ 824628 com
+ 117914 net
   60982 info
-  57430 ru
-  50658 org
-  45056 de
+  57377 ru
+  50657 org
+  45054 de
   44508 tk
-  35650 xyz
+  35648 xyz
   31624 stream
-  25816 nl
-  24912 cn
-  23012 fr
-  16587 uk
-  15276 pl
-  15156 top
+  25814 nl
+  24891 cn
+  22967 fr
+  16564 uk
+  15275 pl
   13331 eu
   12407 in
   12060 site
-  11235 br
+  11230 br
   10931 biz
-  10483 us
-   9197 co
+  10482 us
+   9193 co
    9179 it
-   8334 jp
-   8319 club
-   8181 me
-   7977 online
+   8327 jp
+   8316 club
+   8180 me
+   7974 online
    7881 su
    7298 ch
    6558 be
    6388 pro
-   6385 au
+   6380 au
    6273 ca
-   6226 cc
+   6225 cc
    5978 tv
    5922 io
    5647 es
    5399 lu
    4990 cz
-   4829 pw
-   4672 ml
+   4828 pw
    4526 ws
    4504 xxx
    4428 dk
@@ -46,5 +44,7 @@
    4402 ga
    4307 cf
    4114 se
-   3895 mobi
+   3894 mobi
    3819 hu
+   3789 win
+   3692 ro
