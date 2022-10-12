@@ -1,4 +1,4 @@
-name: Update Blocklist
+name: Update Blacklist
 on:
   repository_dispatch:
   workflow_dispatch:
