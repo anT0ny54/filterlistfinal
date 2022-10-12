@@ -4,3 +4,8 @@
 /(^|.)bid$/
 /(^|.)ooo$/
 /(^|.)surf$/
+/(^|.)icu$/
+/(^|.)financial$/
+/(^|.)associates$/
+/(^|.)cricket$/
+/(^|.)discount$/
