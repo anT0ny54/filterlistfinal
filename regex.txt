@@ -31,3 +31,11 @@
 /(^|.)date$/
 /(^|.)wang$/
 /(^|.)accountants$/
+/(^|.)zip$/
+/(^|.)science$/
+/(^|.)work$/
+/(^|.)link$/
+/(^|.)tk$/
+/(^|.)ga$/
+/(^|.)cf$/
+/(^|.)monster$/
