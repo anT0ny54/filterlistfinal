@@ -1,50 +1,50 @@
- 799632 com
- 157063 net
-  68650 info
-  59940 org
-  59389 br
-  50635 de
-  47583 xyz
-  47359 ru
-  46558 tk
+ 799911 com
+ 157305 net
+  68667 info
+  59949 org
+  59461 br
+  50644 de
+  47601 xyz
+  47364 ru
+  46562 tk
   32787 xxx
-  31700 stream
-  24871 nl
-  24595 fr
-  22326 uk
-  20971 top
-  16252 pl
-  15563 in
-  15370 cn
+  31746 stream
+  24886 nl
+  24610 fr
+  22345 uk
+  20987 top
+  16253 pl
+  15564 in
+  15375 cn
   15185 eu
-  14605 co
-  14448 site
-  12415 biz
-  12209 us
-  11401 club
-  11295 me
-   9736 it
+  14610 co
+  14449 site
+  12419 biz
+  12210 us
+  11411 club
+  11298 me
+   9738 it
    9306 online
-   9150 jp
+   9160 jp
    8529 io
-   8271 au
-   7699 pro
-   7607 ch
-   7593 es
-   7417 cc
-   6933 ca
-   6500 tv
+   8281 au
+   7705 pro
+   7608 ch
+   7594 es
+   7418 cc
+   6935 ca
+   6502 tv
    6119 be
    6072 pw
    5410 lu
    5275 vip
    5157 cz
    5136 at
-   4980 ml
+   4988 ml
    4876 mobi
    4858 app
-   4802 icu
-   4745 ga
-   4691 cf
-   4652 id
-   4612 live
+   4810 icu
+   4753 ga
+   4692 cf
+   4657 id
+   4615 live
