@@ -9,15 +9,18 @@
   23573 nl
   20825 fr
   15706 uk
+  15545 top
   13655 in
   12508 eu
   11985 cn
+  11482 co
   10703 biz
   10253 me
   10037 br
    9635 pl
    9421 club
    9304 it
+   8701 io
    8013 jp
    7729 us
    7432 site
@@ -25,13 +28,16 @@
    7275 pro
    7111 online
    6764 cc
+   6415 ca
    6107 tv
    5952 au
    5658 be
    5402 lu
    5278 es
+   5235 vip
    4946 cz
    4731 mobi
+   4604 tk
    4398 at
    4144 dk
    3946 hu
@@ -41,10 +47,4 @@
    3435 ro
    3286 pw
    3263 st
-   2981 porn
-   2819 su
-   2669 fun
-   2590 space
-   2437 ir
-   2429 cl
-   2367 sg
+   3001 ml
