@@ -1,39 +1,39 @@
- 604946 com
- 105837 net
+ 605006 com
+ 105854 net
   56646 br
-  45001 org
+  45008 org
   41013 de
-  32356 ru
-  24714 info
+  32361 ru
+  24716 info
   21068 nl
   20542 fr
-  17888 uk
-  16978 xyz
-  12182 top
+  17889 uk
+  16981 xyz
+  12193 top
   10460 pl
   10300 co
    9601 in
-   9391 eu
+   9392 eu
    8901 jp
-   8779 io
+   8781 io
    8519 it
    7474 cn
-   7454 site
+   7456 site
    6921 biz
    6859 ch
    6770 au
-   6610 me
+   6611 me
    6559 es
    6233 pro
-   5893 cc
+   5923 cc
    5632 ca
    5608 dev
    5396 lu
    5276 be
-   5052 online
+   5053 online
    5005 xxx
-   4857 cz
-   4831 tv
+   4858 cz
+   4835 tv
    4662 club
    4555 us
    4120 tr
@@ -44,7 +44,7 @@
    3745 hu
    3702 mobi
    3377 tk
-   3270 st
+   3271 st
    3193 ro
-   2618 live
+   2624 live
    2607 stream
